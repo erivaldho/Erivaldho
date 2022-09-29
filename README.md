@@ -1,8 +1,8 @@
 ### Hi there 👋
-my name is Erivaldho
-- Brazilian (BR)
-- he/his
-
+my name is Erivaldho ✏
+- Brazilian (BR) 👐
+- he/his 😃
+- trabalho como segundo secretário de uma oficina mecanica 🔧
 <!--
 **erivaldho/Erivaldho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
