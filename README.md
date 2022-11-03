@@ -3,6 +3,8 @@ my name is Erivaldho ✏
 - Brazilian (BR) 👐
 - he/his 😃
 - trabalho como segundo secretário de uma oficina mecanica 🔧
+- 
+- Email para contato: erivaldho.paulino@gmail.com 📭
 <!--
 **erivaldho/Erivaldho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
