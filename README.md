@@ -4,7 +4,7 @@ my name is Erivaldho ✏
 - he/his 😃
 - trabalho como segundo secretário de uma oficina mecanica 🔧
 - Email para contato: erivaldho.paulino@gmail.com 📭
-- ![JAVA]([https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E))
+- ![Javascript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
 </!--
 **erivaldho/Erivaldho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
